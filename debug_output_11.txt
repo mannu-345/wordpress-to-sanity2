@@ -1,0 +1,1993 @@
+[dotenv@17.2.3] injecting env (1) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+Starting migration (Pass 2: Content)...
+Processing Content: 注文住宅の夢、ウチつくで叶えよう！プロの無料相談で後悔なしの家づくり (ID: 7948)
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/08/1-1024x397.jpg
+(node:42098) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///Users/kimurakousuke/%E9%96%8B%E7%99%BA/00_code/01_wordpress%20to%20sanity/scripts/migrate.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /Users/kimurakousuke/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/08/2-1-1024x441.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/08/流れ-1024x446.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/08/土地情報-1024x747.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/08/オンライン-1024x376.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/08/３つの理由-1024x387.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/08/特典-1024x292.jpg
+  -> Updated Body & Categories: post-7948
+Processing Content: 【保存版】外構一括見積もりサービスのおすすめ１０個比較 (ID: 7657)
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/タウンライフロゴ２-300x74.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ホームプロロゴ-300x98.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リフォームガイドロゴ.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リショップナビエクステリアロゴ-300x103.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/外構エクステリアパートナーズロゴ-300x87.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ガーデンプラスロゴ-300x97.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リショップナビロゴ-300x69.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ハピすむロゴ.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リフォーム比較プロロゴ-300x73.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ハウジングバザールロゴ-300x84.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/05/執筆者テンプレート.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/9-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/タウンライフ-1024x494.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ホームプロ-e1721484289229-1024x427.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リフォームガイド-1-1024x470.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/10-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/11-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/12-2-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/14-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/15-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/タウンライフロゴ２-300x74.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ホームプロロゴ-300x98.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リフォームガイドロゴ.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リショップナビエクステリアロゴ-300x103.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/外構エクステリアパートナーズロゴ-300x87.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ガーデンプラスロゴ-300x97.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リショップナビロゴ-300x69.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ハピすむロゴ.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リフォーム比較プロロゴ-300x73.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ハウジングバザールロゴ-300x84.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/16-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/17-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/18-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/19-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/20-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/タウンライフロゴ２-300x74.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ホームプロロゴ-300x98.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リフォームガイドロゴ.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リショップナビエクステリアロゴ-300x103.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/外構エクステリアパートナーズロゴ-300x87.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ガーデンプラスロゴ-300x97.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リショップナビロゴ-300x69.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ハピすむロゴ.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/リフォーム比較プロロゴ-300x73.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/07/ハウジングバザールロゴ-300x84.jpg
+  -> Updated Body & Categories: post-7657
+Processing Content: 【対策あり】注文住宅で予算オーバーしたときに削れるところ７選 (ID: 7409)
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/05/執筆者テンプレート.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/06/01_budget-reduce-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/06/02_budget-reduce-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/06/03_budget-reduce-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/06/04_budget-reduce-1024x538.png
+  -> Error updating post-7409: ClientError: Mutation failed: Document "post-7409" references non-existent document "post-4403":
+- Document "post-7409" references non-existent document "post-4403"
+    at i (file:///Users/kimurakousuke/node_modules/@sanity/client/src/http/request.ts:13:13)
+    at applyMiddleware (file:///Users/kimurakousuke/node_modules/get-it/src/util/middlewareReducer.ts:9:40)
+    at onResponse (file:///Users/kimurakousuke/node_modules/get-it/src/createRequester.ts:62:22)
+    at cb (file:///Users/kimurakousuke/node_modules/get-it/src/createRequester.ts:104:55)
+    at callback (file:///Users/kimurakousuke/node_modules/get-it/src/request/node-request.ts:145:81)
+    at cb (file:///Users/kimurakousuke/node_modules/get-it/src/request/node-request.ts:246:14)
+    at Transform.<anonymous> (file:///Users/kimurakousuke/node_modules/get-it/src/request/node/simpleConcat.ts:8:13)
+    at Object.onceWrapper (node:events:621:28)
+    at Transform.emit (node:events:507:28)
+    at Transform.emit (node:domain:489:12) {
+  response: {
+    body: { error: [Object] },
+    url: 'https://cvg2jwc7.api.sanity.io/v2024-01-01/data/mutate/production?returnIds=true&returnDocuments=true&visibility=sync',
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json; charset=utf-8',
+      'ratelimit-reset': '1',
+      'x-ratelimit-remaining-second': '49',
+      'x-ratelimit-limit-second': '50',
+      'ratelimit-limit': '50',
+      'ratelimit-remaining': '49',
+      'sanity-inflight-limit': '100',
+      'sanity-inflight-current': '0',
+      date: 'Mon, 24 Nov 2025 21:39:23 GMT',
+      'server-timing': 'api;dur=82',
+      vary: 'Accept-Encoding, origin',
+      'x-sanity-shard': 'gcp-eu-w1-prod-40016',
+      'x-served-by': 'gradient-web-7c956cdf95-dj5x5',
+      'sanity-gateway': 'k8s-gcp-as-s1-prod-ing-01',
+      'strict-transport-security': 'max-age=63072000; includeSubDomains; preload',
+      xkey: 'project-cvg2jwc7, project-cvg2jwc7-production',
+      via: '1.1 google',
+      'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+      'transfer-encoding': 'chunked'
+    },
+    statusCode: 409,
+    statusMessage: 'Conflict'
+  },
+  statusCode: 409,
+  responseBody: '{\n' +
+    '  "error": {\n' +
+    '    "description": "Mutation failed: Document \\"post-7409\\" references non-existent document \\"post-4403\\"",\n' +
+    '    "items": [\n' +
+    '      {\n' +
+    '        "error": {\n' +
+    '          "description": "Document \\"post-7409\\" references non-existent document \\"post-4403\\"",\n' +
+    '          "id": "post-7409",\n' +
+    '          "referenceID": "post-4403",\n' +
+    '          "type": "documentReferenceDoesNotExistError"\n' +
+    '        },\n' +
+    '        "index": 0\n' +
+    '      }\n' +
+    '    ],\n' +
+    '    "type": "mutationError"\n' +
+    '  }\n' +
+    '}',
+  details: {
+    description: 'Mutation failed: Document "post-7409" references non-existent document "post-4403"',
+    items: [ [Object] ],
+    type: 'mutationError'
+  }
+}
+Processing Content: 【テンプレートあり】注文住宅における理想の要望書の書き方 (ID: 7181)
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/05/執筆者テンプレート.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/05/request-letter01-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/05/request-letter-example２-1.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/05/request-letter02-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/05/request-letter-example２.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/05/request-letter03-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/03/madori-pto-1024x352.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/05/request-letter04-1024x538.png
+    Downloading image: https://candy-network.com/wp-content/uploads/2021/03/2020-12-06-17-20-49-e1716464916418.jpg
+  -> Updated Body & Categories: post-7181
+Processing Content: 【最強の間取り本】「この間取り、ここが問題です！」を紹介します (ID: 6948)
+    Downloading image: https://kosukehome.net/wp-content/uploads/2024/02/01-e1707742130137.jpg
+    Downloading image: https://candy-network.com/wp-content/uploads/2024/05/執筆者テンプレート.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2024/02/02-1-e1707746309583.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2024/02/02-2-e1707746492702.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2024/02/アイキャッチ2-1024x538.jpg
+  -> Updated Body & Categories: post-6948
+Processing Content: 【徹底比較】注文住宅一括資料請求サイトのおすすめ５選 (ID: 6186)
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/タウンライフロゴ.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/家づくりのとびらロゴ-300x84.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/ライフルロゴ-300x97.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/ハウジングバザールロゴ-300x79.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/持ち家計画ロゴ-300x102.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/スクリーンショット-2023-04-22-11.13.57-1-1024x771.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/05/家づくりのとびら-1024x488.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/05/ライフルホームズ-1024x599.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/タウンライフロゴ.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/家づくりのとびらロゴ-300x84.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/ライフルロゴ-300x97.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/ハウジングバザールロゴ-300x79.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/持ち家計画ロゴ-300x102.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/05/よくある質問３.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/スクリーンショット-2023-04-22-11.13.57-1-1024x771.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/05/手順①-1024x565.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/05/手順1-596x1024.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/05/手順2-274x300.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/05/手順3-214x300.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/05/手順4-300x247.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/05/手順5-300x245.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/05/手順6-200x300.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/05/手順8-208x300.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/04/スクリーンショット-2023-04-22-11.13.57-1-1024x771.jpg
+  -> Updated Body & Categories: post-6186
+Processing Content: 【徹底解説】不動産の共有持分は共有者の同意なしに売却できるの？ (ID: 5971)
+    Downloading image: https://www.rentracks.jp/adx/p.gifx?idx=0.52619.325010.4316.6433&dna=91309
+    Downloading image: https://www.image-rentracks.com/albalink/kaitoripro/728_90.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/02/01_共有とは？.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/02/02_売却　持分-1024x585.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/02/03_３つの方法-1024x669.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/02/04_探し方-1024x655.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/02/05_流れ-1024x490.jpg
+    Downloading image: https://www.rentracks.jp/adx/p.gifx?idx=0.52619.325010.4316.6433&dna=87839
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/02/無料査定-729x1024.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/02/06_注意点.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/02/07_デメリット-1024x559.jpg
+    Downloading image: https://www.rentracks.jp/adx/p.gifx?idx=0.52619.325010.4316.6433&dna=87839
+  -> Updated Body & Categories: post-5971
+Processing Content: 【注文住宅を建てる人必見】仲介手数料ってなに？いくらかかるの？ (ID: 5792)
+--- DEBUG: rawContent for 5792 ---
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p></p>
+<p>[st-midasibox-intitle title="この記事で解決できるお悩み" fontawesome="" bordercolor="#68a4d9" color="" bgcolor="" borderwidth="" borderradius="" titleweight="bold"]</p>
+<ul>
+<li><a href="#a"><span style="font-weight: 400;">仲介手数料ってなに？</span></a></li>
+<li><a href="#b"><span style="font-weight: 400;">いくらかかるの？</span></a></li>
+<li><a href="#c"><span style="font-weight: 400;">割引してもらえるの？</span></a></li>
+</ul>
+<p>[/st-midasibox-intitle]</p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p>[st-kaiwa1]<span style="font-weight: 400;">こんな疑問を解決できる記事を書きました。</span></p>
+<p><span style="font-weight: 400;">僕自身、土地を購入し注文住宅を建てた経験があります。</span></p>
+<p><span style="font-weight: 400;">また、宅地建物取引士の資格を持っており、不動産売買の仲介経験もあります。</span>[/st-kaiwa1]</p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">この記事を読めば、<span class="hutoaka">仲介手数料のことをきちんと理解できる</span>ようになりますよ。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>不動産仲介とは？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5950,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://kosukehome.net/wp-content/uploads/2023/01/1_仲介-1024x576.jpg" alt="不動産仲介とは？" class="wp-image-5950"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">まず始めに、不動産仲介とはなんでしょうか？</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">不動産を売買したり貸借するときには、<strong>「売主と買主」</strong>、<strong>「貸主と借主」</strong>との間で、契約手続きを結ぶ必要があります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">ですが、<span class="hutoaka">契約には専門的な知識が必要なため、当事者だけで手続きを進めるのは非常に難しい</span>です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">そこで登場するのが、<strong>不動産仲介</strong>という仕組みです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><strong><span class="ymarker-s">不動産仲介とは、「売主と買主」、または「貸主と借主」双方の間に立って、不動産の契約を成立させることを言います。</span></strong></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">具体的には、その不動産の権利関係や建物を建てる際にどんな制限がかかるのかを調べたり、契約の条件を調整したりします。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p>[st-kaiwa1]<span style="font-weight: 400;">法律なども関わってくるので、やはり専門的な知識や経験が必要になってきますね。</span>[/st-kaiwa1]</p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>不動産の専門家である宅地建物取引士</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">では、どんな人が不動産仲介をしてくれるのでしょうか？</span></p>
+<p><span style="font-weight: 400;">それは、<strong>『宅地建物取引士』</strong>という資格を持った人たちです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p>[st-kaiwa1]僕も資格を持っていますが、『宅建』と呼ばれることが多いですね。[/st-kaiwa1]</p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">不動産を仲介する会社は、<strong>宅地建物取引業の免許</strong>を持っている必要があります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">『不動産仲介会社』は不動産取引を仲介する専門家集団</span>で、家を借りるときに<strong>エイブル</strong>や<strong>ミニミニ</strong>などの不動産仲介会社にお世話になった人も多いのではないでしょうか。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">それと同じように、不動産の売買のときにも不動産仲介会社に依頼するのが一般的です。</span></p>
+<p><span style="font-weight: 400;"><strong>三井のリハウス</strong>や<strong>東急リバブル</strong>などが有名ですね。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">[st-mybox title="ここに注意" fontawesome="fa-exclamation-circle" color="#ef5350" bordercolor="#f3f3f3" bgcolor="#ffebee" borderwidth="" borderradius="5" titleweight="bold" title_bordercolor="#ef5350" fontsize="" myclass="st-mybox-class st-title-under" margin="25px 0 25px 0"]</span><span style="font-weight: 400;">不動産仲介会社を使わず、<strong>『個人間売買』</strong>という方法で契約することもできますが、契約内容や条件を当事者たちで決める必要があります。</span></p>
+<p></p>
+<p><span style="font-weight: 400;">『不動産取引に自信がある』『相手がよほど信頼できる』といった場合以外は、個人間売買は避けたほうが無難です。</span><span style="font-weight: 400;">[/st-mybox]</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 id="a">仲介手数料ってなに？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5951,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://kosukehome.net/wp-content/uploads/2023/01/3_仲介手数料-1024x355.jpg" alt="仲介手数料ってなに？" class="wp-image-5951"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">不動産仲介会社に依頼すると、当然費用が発生します。</span></p>
+<p><span style="font-weight: 400;">そのときに支払うのが<span class="huto">仲介手数料</span>です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><strong><span class="hutoaka">不動産は成功報酬型なので、契約を結ぶまでは仲介手数料を支払う必要はありません。</span></strong></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">それまでにどれだけ相談していたとしても、契約が成立しなければ仲介手数料はかからないので安心してください。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>仲介手数料の計算方法は？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5952,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://kosukehome.net/wp-content/uploads/2023/01/4_計算-1024x330.jpg" alt="仲介手数料の計算方法は？" class="wp-image-5952"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">では、いよいよ今回の本題です。</span></p>
+<p><strong><span class="huto">実際、仲介手数料はいくらかかるのでしょうか？</span></strong></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><strong><span class="hutoaka">不動産売買の仲介手数料は、売買価格に応じて上限金額が決まっています。</span></strong></p>
+<p><span style="font-weight: 400;">上限金額の計算方法は次のとおりです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<table style="border-collapse: collapse; width: 100%; height: 68px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;"><span style="color: #000000;">売買価格</span></td>
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;"><span style="color: #000000;">料率</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">200万円以下の部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">5%</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 14px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">200万円を超えて400万円以下の部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 14px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">4%</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">400万円を超える部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">3%</span></td>
+</tr>
+</tbody>
+</table>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="color: #ff0000;"><strong>少しイメージしづらいと思うので、具体例を見てみましょう。</strong></span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>仲介手数料の具体例</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">売買価格<strong>3,000万円</strong>だと、次のような計算になります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<table style="border-collapse: collapse; width: 100%; height: 72px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;">売買価格</td>
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;">仲介手数料金額</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">200万円以下の部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">200万円×5%=10万円</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">200万円を超えて400万円以下の部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">200万円×4%=8万円</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">400万円超の部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">2,600万円×3%=78万円</span></td>
+</tr>
+</tbody>
+</table>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">つまり、<strong>売買価格3,000万円の仲介手数料は、10万円+8万円+78万円=96万円</strong>です。</span></p>
+<p><span style="font-weight: 400;">これに<span class="hutoaka">消費税がかかり、仲介手数料の上限額は105万6,000円</span>となります。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">[st-kaiwa1]ですが、毎回この計算をするのはめんどうですよね？</span><span style="font-weight: 400;">そこで、<span class="hutoaka">もっと楽に計算する方法をご紹介</span>します。[/st-kaiwa1]</span></p>
+<p></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>速算表で一発計算</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">先ほどは価格帯ごとに計算していましたが、実は<span class="hutoaka">どんな金額でも一発で計算する方法</span>があります。</span></p>
+<p><span style="font-weight: 400;"><strong>速算表</strong>と呼ばれる計算方法で、計算式は次のとおりです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<table style="border-collapse: collapse; width: 100%; height: 54px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;">売買価格</td>
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;">計算式</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">200万円を超えて400万円以下の場合</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">売買価格×4%＋2万円</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">400万円を超える場合</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">売買価格の3%＋6万円</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">※200万円以下の場合は、先ほどと同じで5%をかけて計算します。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">これで本当に計算できるの？と疑問に思うかもしれません。</span></p>
+<p><strong>速算表の計算が本当に正しいのかどうか、念のため確認しておきましょう。</strong></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">（例）300万円の場合</span></p>
+<p>[st-mybox title="" fontawesome="" color="#757575" bordercolor="#ffd700" bgcolor="#ffffff" borderwidth="2" borderradius="2" titleweight="bold" fontsize="" myclass="st-mybox-class" margin="25px 0 25px 0"]</p>
+<p><span class="checkmark2 on-color"><span class="dotline">通常の計算</span></span></p>
+<p><span style="font-weight: 400;">200万円×5%=10万円</span></p>
+<p><span style="font-weight: 400;">100万円×4%=4万円</span></p>
+<p><span style="font-weight: 400;">10万円+4万円=<span class="hutoaka">14万円</span>（税抜）</span></p>
+<p>[/st-mybox]</p>
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p>[st-mybox title="" fontawesome="" color="#757575" bordercolor="#ffd700" bgcolor="#ffffff" borderwidth="2" borderradius="2" titleweight="bold" fontsize="" myclass="st-mybox-class" margin="25px 0 25px 0"]</p>
+<p><span class="checkmark2 on-color"><span class="dotline">速算表での計算</span></span></p>
+<p><span style="font-weight: 400;">300万円×4%+2万円=<span class="hutoaka">14万円</span>（税抜）</span></p>
+<p>[/st-mybox]</p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">（例）5,000万円の場合</span></p>
+<p>[st-mybox title="" fontawesome="" color="#757575" bordercolor="#ffd700" bgcolor="#ffffff" borderwidth="2" borderradius="2" titleweight="bold" fontsize="" myclass="st-mybox-class" margin="25px 0 25px 0"]</p>
+<p><span class="checkmark2 on-color dotline"><span style="font-weight: 400;">通常の計算</span></span></p>
+<p><span style="font-weight: 400;">200万円×5%=10万円</span></p>
+<p><span style="font-weight: 400;">200万円×4万円=8万円</span></p>
+<p><span style="font-weight: 400;">4,600万円×3%=138万円</span></p>
+<p><span style="font-weight: 400;">10万円+8万円+138万円=<span class="hutoaka">156万円</span>（税抜）</span></p>
+<p>[/st-mybox]</p>
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p>[st-mybox title="" fontawesome="" color="#757575" bordercolor="#ffd700" bgcolor="#ffffff" borderwidth="2" borderradius="2" titleweight="bold" fontsize="" myclass="st-mybox-class" margin="25px 0 25px 0"]</p>
+<p><span class="checkmark2 on-color dotline"><span style="font-weight: 400;">速算表での計算</span></span></p>
+<p><span style="font-weight: 400;">5,000万円×3%+6万円=<span class="hutoaka">156万円</span>（税抜）</span></p>
+<p>[/st-mybox]</p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">実際に計算すると、<strong>速算表での計算結果が正しい</strong>ことがわかりますね。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p>[st-kaiwa1]<span style="font-weight: 400;">注文住宅を建てるために土地を探す場合、400万円を超える物件が多いと思います。</span></p>
+<p><span style="font-weight: 400;">仲介手数料の計算は、<span class="hutoaka">「(売買価格の3%＋6万円)+消費税」</span>と覚えておけばOKですよ。</span>[/st-kaiwa1]</p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="b">仲介手数料の具体的な金額</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">速算表である程度簡単に計算できるといっても、いちいち計算するのはやっぱりめんどうですね。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">仲介手数料がどのぐらいかかるかの<span class="hutoaka">目安を知りたい方は、次の早見表を参考</span>にしてください。</span></p>
+<p><span style="font-weight: 400;">イメージしやすくなると思いますよ。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span class="checkmark2 on-color">仲介手数料早見表（100万円～１億円）</span></p>
+<table style="border-collapse: collapse; width: 100%; height: 396px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #99ccff; vertical-align: middle;">売買価格</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #99ccff; vertical-align: middle;">仲介手数料（税抜）</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #99ccff; vertical-align: middle;">仲介手数料（税込）</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">100万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">5万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">5万5,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">21万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">23万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">1,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">36万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">39万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">1,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">51万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">56万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">2,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">66万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">72万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">2,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">81万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">89万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">3,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">96万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">105万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">3,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">111万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">122万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">4,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">126万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">138万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">4,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">141万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">155万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">5,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">156万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">171万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">5,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">171万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">188万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">6,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">186万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">204万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">6,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">201万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">221万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">7,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">216万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">237万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">7,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">231万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">254万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">8,000万円</td>
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">246万円</td>
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">270万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">8,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">261万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">287万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">9,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">276万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">303万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">9,500万円</td>
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">291万円</td>
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">320万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">10,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">306万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">336万6,000円</td>
+</tr>
+</tbody>
+</table>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">ご覧いただくとわかるように、売買価格が400万円を超えると、<span class="huto" style="color: #ff0000;">売買価格が500万円増えるごとに仲介手数料が16万5,000円（税込）ずつ増えていきます。</span></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">3,000万円を超える物件だと、仲介手数料が100万円を超えてかなりの負担になってきますね。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><strong><span class="ymarker-s">少しでも仲介手数料が安くなると嬉しいと思うので、次の項目では仲介手数料の割引について見ていきましょう。</span></strong></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 id="c">仲介手数料は割引してもらえるの？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5953,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://kosukehome.net/wp-content/uploads/2023/01/5_割引-1024x423.jpg" alt="仲介手数料は割引してもらえるの？" class="wp-image-5953"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">家電や車などの高額商品を買う場合、割引してもらえることが多いですよね。</span></p>
+<p><span style="font-weight: 400;">では、<strong>仲介手数料も割引してもらえるのでしょうか？</strong></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">結論を言うと、<span class="hutoaka">簡単には割引してもらえません。</span></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">なぜなら、<strong>仲介手数料は不動産仲介会社の収入源</strong>だからです。</span></p>
+<p><span style="font-weight: 400;">他に収入源がないので、簡単に割引するわけにはいかないんですね。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p>[st-kaiwa1]なので、当然割引してもらえるだろう、とは思わないでおきましょう。[/st-kaiwa1]</p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">ですが、<span class="hutoaka">場合によっては割引してもらえることがある</span>ので、どういったケースで割引してもらえるかも見ていきましょう。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>提携割引を利用しよう</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><strong><span class="hutoaka">一番割引してもらいやすいのは、提携割引ですね。</span></strong></p>
+<p><span style="font-weight: 400;">不動産仲介会社は、特定の企業と提携契約を結んでいる場合があります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">「◯◯会社の社員であれば、◯%割引しますよ」</span>といった感じです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">不動産仲介会社を決める際は、<strong>あなたが働いている会社と提携している会社がないか、まずは確認</strong>してみましょう。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">20%ほど割引してもらえる可能性</span>がありますよ。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">[st-midasibox title="ポイント" fontawesome="fa-check-circle faa-ring animated" bordercolor="#FFC107" color="" bgcolor="#FFFDE7" borderwidth="" borderradius="5" titleweight="bold"]</span></p>
+<p><span style="font-weight: 400;">売買価格3,000万円の20%割引だと、<strong>21万1,200円の割引</strong>になります。</span></p>
+<p><span style="font-weight: 400;">かなり大きいので、提携している不動産仲介会社がないか、必ず確認しておきましょう。</span></p>
+<p><span style="font-weight: 400;">[/st-midasibox]</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>仲介手数料無料ってどういうこと？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">先ほど仲介手数料の割引は簡単ではないと言いました。</span></p>
+<p><span style="font-weight: 400;">ですが物件を探しているとき、<strong>仲介手数料半額や無料</strong>といった宣伝を見たことはありませんか？</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">なぜ、そんなに割引ができるのか</span>不思議に思った人も多いはず。</span></p>
+<p><span style="font-weight: 400;">実はこれには、<strong>不動産業界の仕組みが関係</strong>しています。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">これまで説明したとおり、不動産仲介会社は、不動産売買を仲介することで仲介手数料を得ることができます。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">そして、不動産の売買には売主と買主がおり、どちらからも仲介手数料をもらうことができるんです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">つまり、<span class="hutoaka">不動産仲介会社が売主と買主の双方から依頼を受けた場合、両方から仲介手数料を受け取れる</span>ということです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">これを<strong>『両手取引』</strong>と言います。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">じつは、<strong>この仕組みが仲介手数料を無料にできる秘訣</strong>なんです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">両手取引の場合、不動産仲介会社は売主から仲介手数料をもらえることが確定</span>しています。</span></p>
+<p><span style="font-weight: 400;">そのため、<span class="hutoaka">買主からの手数料を半額にしたり無料にしても、きちんと儲かる</span>んですね。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p>[st-kaiwa1]不動産仲介会社が売主と媒介契約を結んでいれば、仲介手数料の割引を相談しやすいかもしれませんね。 それとなく聞いてみましょう。[/st-kaiwa1]</p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>不動産業者が売主の場合、仲介手数料がかからない</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">もう一つ仲介手数料を抑える方法として、<strong>不動産業者から直接購入</strong>するという方法があります。</span></p>
+<p><strong><span class="hutoaka">不動産業者が売主の場合は、そもそも仲介手数料がかかりません。</span></strong></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">なぜなら、<strong>不動産業者は不動産のプロ</strong>なので、不動産仲介会社を間に入れる必要がないからです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">そう聞くと不動産業者が持っている物件を買ったほうがいいと思うかもしれませんが、注意点があります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">それは、<strong>不動産業者は自分たちの利益を確保する必要がある</strong>ということです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">そのため<span class="hutoaka">売却価格が高くなりがちで、トータルではお得にならない可能性</span>があります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">買いたい地域の相場をしっかりと調べて、トータル金額で比較するようにしましょう。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>仲介手数料の支払いタイミングと支払い方法</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5954,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://kosukehome.net/wp-content/uploads/2023/01/6_スケジュール-1024x569.jpg" alt="仲介手数料の支払いタイミングと支払い方法" class="wp-image-5954"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">ここまでご覧いただいて、仲介手数料がどのぐらいかかるかを理解できたと思います。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">そして次に気になるのが、<span class="hutoaka">仲介手数料の</span><strong><span class="hutoaka">支払いタイミング</span></strong>と<span class="hutoaka"><strong>支払い方法</strong></span>ではないでしょうか。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">それぞれ見ていきましょう。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>支払いタイミング</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">仲介手数料は、<strong>２回に分けて支払うことが一般的</strong>です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">１回目が売買契約締結時、２回目が引渡し時</span>です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">金額は半分ずつ支払います。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">[st-kaiwa1]もし、あなたが<strong>引渡し時に一括で支払いたいという場合は、事前に不動産仲介会社に相談</strong>してみましょう。</span><span style="font-weight: 400;">一括での支払いが可能な場合もありますよ。[/st-kaiwa1]</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>支払い方法</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">仲介手数料の支払い方法は、<span class="hutoaka">現金払いが一般的</span>です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">売買契約締結が終わった後と引渡しが終わった後に、その場で現金で支払うという流れです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">ただ、仲介手数料は100万円を超えることも珍しくないので、<strong>現金を持ち歩きたくないという方は、振込で対応できないかなどを事前に確認</strong>しておきましょう。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>契約が解除になったらどうなるの？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">契約が成立すると仲介手数料の支払いが必要になりますが、<strong>契約が解除になった場合はどうなるのでしょうか？</strong></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">解除になった理由にもよりますが、<span class="hutoaka">どうしようもない理由であれば仲介手数料を支払う必要はありません。</span></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">たとえば、<span class="hutoaka">住宅ローンの審査がおりなかったような場合</span>ですね。</span></p>
+<p><span style="font-weight: 400;">このような場合は仲介手数料を支払う必要はないので、安心してください。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>さいごに：仲介手数料は、安全に物件を買うための必要経費</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">仲介手数料を払うのはもったいないと感じるかもしれませんが、<strong>安全に物件を買うための必要経費</strong>と考えるといいですよ。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">不動産は一つとして同じ物件がなく、とても奥深い世界です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">後から何かあっては遅いので、<span class="hutoaka">不動産のプロである不動産仲介会社にしっかりと調べてもらい、安全に契約しましょう。</span></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">今回の記事が、仲介手数料の理解に役立てば嬉しいです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<div class="st-blackboard square-checkbox">
+<p class="st-blackboard-title-box"><span class="st-blackboard-title">記事のまとめ</span></p>
+<ul class="st-blackboard-list st-no-ck-off">
+<li>仲介手数料は成功報酬</li>
+<li>仲介手数料の計算方法は、「(売買価格の3%＋6万円)+消費税」</li>
+<li>提携割引で仲介手数料を割引してもらおう</li>
+<li>不動産業者から直接購入すると、仲介手数料は不要</li>
+<li>仲介手数料は契約締結時と引渡し時の２回払い</li>
+<li>支払いは現金が一般的</li>
+<li>住宅ローンの審査がおりなかった場合、仲介手数料の支払いは不要</li>
+</ul>
+</div>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+--- END DEBUG ---
+--- DEBUG: cleanHtml for 5792 ---
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+</p>
+<div data-custom-type="info-box" data-type="midasibox-intitle" data-title="この記事で解決できるお悩み">
+<ul>
+<li><a href="#a"><span style="font-weight: 400;">仲介手数料ってなに？</span></a></li>
+<li><a href="#b"><span style="font-weight: 400;">いくらかかるの？</span></a></li>
+<li><a href="#c"><span style="font-weight: 400;">割引してもらえるの？</span></a></li>
+</ul>
+</div>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<div data-custom-type="speech-bubble" data-iconid="1" data-name="" data-position="left"><span style="font-weight: 400;">こんな疑問を解決できる記事を書きました。</span>
+<p><span style="font-weight: 400;">僕自身、土地を購入し注文住宅を建てた経験があります。</span></p>
+<p><span style="font-weight: 400;">また、宅地建物取引士の資格を持っており、不動産売買の仲介経験もあります。</span></div>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<span style="font-weight: 400;">この記事を読めば、<span class="hutoaka">仲介手数料のことをきちんと理解できる</span>ようになりますよ。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>不動産仲介とは？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5950,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://kosukehome.net/wp-content/uploads/2023/01/1_仲介-1024x576.jpg" alt="不動産仲介とは？" class="wp-image-5950"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">まず始めに、不動産仲介とはなんでしょうか？</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">不動産を売買したり貸借するときには、<strong>「売主と買主」</strong>、<strong>「貸主と借主」</strong>との間で、契約手続きを結ぶ必要があります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">ですが、<span class="hutoaka">契約には専門的な知識が必要なため、当事者だけで手続きを進めるのは非常に難しい</span>です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">そこで登場するのが、<strong>不動産仲介</strong>という仕組みです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><strong><span class="ymarker-s">不動産仲介とは、「売主と買主」、または「貸主と借主」双方の間に立って、不動産の契約を成立させることを言います。</span></strong></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">具体的には、その不動産の権利関係や建物を建てる際にどんな制限がかかるのかを調べたり、契約の条件を調整したりします。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<div data-custom-type="speech-bubble" data-iconid="1" data-name="" data-position="left"><span style="font-weight: 400;">法律なども関わってくるので、やはり専門的な知識や経験が必要になってきますね。</span></div>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>不動産の専門家である宅地建物取引士</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">では、どんな人が不動産仲介をしてくれるのでしょうか？</span></p>
+<p><span style="font-weight: 400;">それは、<strong>『宅地建物取引士』</strong>という資格を持った人たちです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<div data-custom-type="speech-bubble" data-iconid="1" data-name="" data-position="left">僕も資格を持っていますが、『宅建』と呼ばれることが多いですね。</div>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">不動産を仲介する会社は、<strong>宅地建物取引業の免許</strong>を持っている必要があります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">『不動産仲介会社』は不動産取引を仲介する専門家集団</span>で、家を借りるときに<strong>エイブル</strong>や<strong>ミニミニ</strong>などの不動産仲介会社にお世話になった人も多いのではないでしょうか。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">それと同じように、不動産の売買のときにも不動産仲介会社に依頼するのが一般的です。</span></p>
+<p><span style="font-weight: 400;"><strong>三井のリハウス</strong>や<strong>東急リバブル</strong>などが有名ですね。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><div data-custom-type="info-box" data-type="mybox" data-title="ここに注意"></span><span style="font-weight: 400;">不動産仲介会社を使わず、<strong>『個人間売買』</strong>という方法で契約することもできますが、契約内容や条件を当事者たちで決める必要があります。</span></p>
+<p></p>
+<p><span style="font-weight: 400;">『不動産取引に自信がある』『相手がよほど信頼できる』といった場合以外は、個人間売買は避けたほうが無難です。</span><span style="font-weight: 400;"></div></span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 id="a">仲介手数料ってなに？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5951,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://kosukehome.net/wp-content/uploads/2023/01/3_仲介手数料-1024x355.jpg" alt="仲介手数料ってなに？" class="wp-image-5951"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">不動産仲介会社に依頼すると、当然費用が発生します。</span></p>
+<p><span style="font-weight: 400;">そのときに支払うのが<span class="huto">仲介手数料</span>です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><strong><span class="hutoaka">不動産は成功報酬型なので、契約を結ぶまでは仲介手数料を支払う必要はありません。</span></strong></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">それまでにどれだけ相談していたとしても、契約が成立しなければ仲介手数料はかからないので安心してください。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>仲介手数料の計算方法は？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5952,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://kosukehome.net/wp-content/uploads/2023/01/4_計算-1024x330.jpg" alt="仲介手数料の計算方法は？" class="wp-image-5952"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">では、いよいよ今回の本題です。</span></p>
+<p><strong><span class="huto">実際、仲介手数料はいくらかかるのでしょうか？</span></strong></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><strong><span class="hutoaka">不動産売買の仲介手数料は、売買価格に応じて上限金額が決まっています。</span></strong></p>
+<p><span style="font-weight: 400;">上限金額の計算方法は次のとおりです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<table style="border-collapse: collapse; width: 100%; height: 68px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;"><span style="color: #000000;">売買価格</span></td>
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;"><span style="color: #000000;">料率</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">200万円以下の部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">5%</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 14px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">200万円を超えて400万円以下の部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 14px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">4%</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">400万円を超える部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400; color: #000000;">3%</span></td>
+</tr>
+</tbody>
+</table>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="color: #ff0000;"><strong>少しイメージしづらいと思うので、具体例を見てみましょう。</strong></span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>仲介手数料の具体例</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">売買価格<strong>3,000万円</strong>だと、次のような計算になります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<table style="border-collapse: collapse; width: 100%; height: 72px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;">売買価格</td>
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;">仲介手数料金額</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">200万円以下の部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">200万円×5%=10万円</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">200万円を超えて400万円以下の部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">200万円×4%=8万円</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">400万円超の部分</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">2,600万円×3%=78万円</span></td>
+</tr>
+</tbody>
+</table>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">つまり、<strong>売買価格3,000万円の仲介手数料は、10万円+8万円+78万円=96万円</strong>です。</span></p>
+<p><span style="font-weight: 400;">これに<span class="hutoaka">消費税がかかり、仲介手数料の上限額は105万6,000円</span>となります。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><div data-custom-type="speech-bubble" data-iconid="1" data-name="" data-position="left">ですが、毎回この計算をするのはめんどうですよね？</span><span style="font-weight: 400;">そこで、<span class="hutoaka">もっと楽に計算する方法をご紹介</span>します。</div></span></p>
+<p></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>速算表で一発計算</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">先ほどは価格帯ごとに計算していましたが、実は<span class="hutoaka">どんな金額でも一発で計算する方法</span>があります。</span></p>
+<p><span style="font-weight: 400;"><strong>速算表</strong>と呼ばれる計算方法で、計算式は次のとおりです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<table style="border-collapse: collapse; width: 100%; height: 54px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;">売買価格</td>
+<td style="width: 50%; text-align: center; background-color: #99ccff; height: 18px; vertical-align: middle;">計算式</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">200万円を超えて400万円以下の場合</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">売買価格×4%＋2万円</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">400万円を超える場合</span></td>
+<td style="width: 50%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;"><span style="font-weight: 400;">売買価格の3%＋6万円</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">※200万円以下の場合は、先ほどと同じで5%をかけて計算します。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">これで本当に計算できるの？と疑問に思うかもしれません。</span></p>
+<p><strong>速算表の計算が本当に正しいのかどうか、念のため確認しておきましょう。</strong></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">（例）300万円の場合</span></p>
+<div data-custom-type="info-box" data-type="mybox" data-title="">
+<p><span class="checkmark2 on-color"><span class="dotline">通常の計算</span></span></p>
+<p><span style="font-weight: 400;">200万円×5%=10万円</span></p>
+<p><span style="font-weight: 400;">100万円×4%=4万円</span></p>
+<p><span style="font-weight: 400;">10万円+4万円=<span class="hutoaka">14万円</span>（税抜）</span></p>
+</div>
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<div data-custom-type="info-box" data-type="mybox" data-title="">
+<p><span class="checkmark2 on-color"><span class="dotline">速算表での計算</span></span></p>
+<p><span style="font-weight: 400;">300万円×4%+2万円=<span class="hutoaka">14万円</span>（税抜）</span></p>
+</div>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">（例）5,000万円の場合</span></p>
+<div data-custom-type="info-box" data-type="mybox" data-title="">
+<p><span class="checkmark2 on-color dotline"><span style="font-weight: 400;">通常の計算</span></span></p>
+<p><span style="font-weight: 400;">200万円×5%=10万円</span></p>
+<p><span style="font-weight: 400;">200万円×4万円=8万円</span></p>
+<p><span style="font-weight: 400;">4,600万円×3%=138万円</span></p>
+<p><span style="font-weight: 400;">10万円+8万円+138万円=<span class="hutoaka">156万円</span>（税抜）</span></p>
+</div>
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<div data-custom-type="info-box" data-type="mybox" data-title="">
+<p><span class="checkmark2 on-color dotline"><span style="font-weight: 400;">速算表での計算</span></span></p>
+<p><span style="font-weight: 400;">5,000万円×3%+6万円=<span class="hutoaka">156万円</span>（税抜）</span></p>
+</div>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">実際に計算すると、<strong>速算表での計算結果が正しい</strong>ことがわかりますね。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<div data-custom-type="speech-bubble" data-iconid="1" data-name="" data-position="left"><span style="font-weight: 400;">注文住宅を建てるために土地を探す場合、400万円を超える物件が多いと思います。</span>
+<p><span style="font-weight: 400;">仲介手数料の計算は、<span class="hutoaka">「(売買価格の3%＋6万円)+消費税」</span>と覚えておけばOKですよ。</span></div>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="b">仲介手数料の具体的な金額</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">速算表である程度簡単に計算できるといっても、いちいち計算するのはやっぱりめんどうですね。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">仲介手数料がどのぐらいかかるかの<span class="hutoaka">目安を知りたい方は、次の早見表を参考</span>にしてください。</span></p>
+<p><span style="font-weight: 400;">イメージしやすくなると思いますよ。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span class="checkmark2 on-color">仲介手数料早見表（100万円～１億円）</span></p>
+<table style="border-collapse: collapse; width: 100%; height: 396px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #99ccff; vertical-align: middle;">売買価格</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #99ccff; vertical-align: middle;">仲介手数料（税抜）</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #99ccff; vertical-align: middle;">仲介手数料（税込）</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">100万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">5万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">5万5,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">21万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">23万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">1,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">36万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">39万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">1,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">51万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">56万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">2,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">66万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">72万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">2,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">81万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">89万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">3,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">96万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">105万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">3,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">111万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">122万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">4,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">126万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">138万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">4,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">141万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">155万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">5,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">156万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">171万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">5,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">171万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">188万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">6,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">186万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">204万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">6,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">201万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">221万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">7,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">216万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">237万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">7,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">231万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">254万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">8,000万円</td>
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">246万円</td>
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">270万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">8,500万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">261万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">287万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">9,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">276万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">303万6,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">9,500万円</td>
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">291万円</td>
+<td style="width: 33.3333%; text-align: center; background-color: #eff7ff; height: 18px; vertical-align: middle;">320万1,000円</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">10,000万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">306万円</td>
+<td style="width: 33.3333%; height: 18px; text-align: center; background-color: #eff7ff; vertical-align: middle;">336万6,000円</td>
+</tr>
+</tbody>
+</table>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">ご覧いただくとわかるように、売買価格が400万円を超えると、<span class="huto" style="color: #ff0000;">売買価格が500万円増えるごとに仲介手数料が16万5,000円（税込）ずつ増えていきます。</span></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">3,000万円を超える物件だと、仲介手数料が100万円を超えてかなりの負担になってきますね。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><strong><span class="ymarker-s">少しでも仲介手数料が安くなると嬉しいと思うので、次の項目では仲介手数料の割引について見ていきましょう。</span></strong></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 id="c">仲介手数料は割引してもらえるの？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5953,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://kosukehome.net/wp-content/uploads/2023/01/5_割引-1024x423.jpg" alt="仲介手数料は割引してもらえるの？" class="wp-image-5953"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">家電や車などの高額商品を買う場合、割引してもらえることが多いですよね。</span></p>
+<p><span style="font-weight: 400;">では、<strong>仲介手数料も割引してもらえるのでしょうか？</strong></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">結論を言うと、<span class="hutoaka">簡単には割引してもらえません。</span></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">なぜなら、<strong>仲介手数料は不動産仲介会社の収入源</strong>だからです。</span></p>
+<p><span style="font-weight: 400;">他に収入源がないので、簡単に割引するわけにはいかないんですね。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<div data-custom-type="speech-bubble" data-iconid="1" data-name="" data-position="left">なので、当然割引してもらえるだろう、とは思わないでおきましょう。</div>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">ですが、<span class="hutoaka">場合によっては割引してもらえることがある</span>ので、どういったケースで割引してもらえるかも見ていきましょう。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>提携割引を利用しよう</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><strong><span class="hutoaka">一番割引してもらいやすいのは、提携割引ですね。</span></strong></p>
+<p><span style="font-weight: 400;">不動産仲介会社は、特定の企業と提携契約を結んでいる場合があります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">「◯◯会社の社員であれば、◯%割引しますよ」</span>といった感じです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">不動産仲介会社を決める際は、<strong>あなたが働いている会社と提携している会社がないか、まずは確認</strong>してみましょう。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">20%ほど割引してもらえる可能性</span>がありますよ。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><div data-custom-type="info-box" data-type="midasibox" data-title="ポイント"></span></p>
+<p><span style="font-weight: 400;">売買価格3,000万円の20%割引だと、<strong>21万1,200円の割引</strong>になります。</span></p>
+<p><span style="font-weight: 400;">かなり大きいので、提携している不動産仲介会社がないか、必ず確認しておきましょう。</span></p>
+<p><span style="font-weight: 400;"></div></span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>仲介手数料無料ってどういうこと？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">先ほど仲介手数料の割引は簡単ではないと言いました。</span></p>
+<p><span style="font-weight: 400;">ですが物件を探しているとき、<strong>仲介手数料半額や無料</strong>といった宣伝を見たことはありませんか？</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">なぜ、そんなに割引ができるのか</span>不思議に思った人も多いはず。</span></p>
+<p><span style="font-weight: 400;">実はこれには、<strong>不動産業界の仕組みが関係</strong>しています。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">これまで説明したとおり、不動産仲介会社は、不動産売買を仲介することで仲介手数料を得ることができます。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">そして、不動産の売買には売主と買主がおり、どちらからも仲介手数料をもらうことができるんです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">つまり、<span class="hutoaka">不動産仲介会社が売主と買主の双方から依頼を受けた場合、両方から仲介手数料を受け取れる</span>ということです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">これを<strong>『両手取引』</strong>と言います。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">じつは、<strong>この仕組みが仲介手数料を無料にできる秘訣</strong>なんです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">両手取引の場合、不動産仲介会社は売主から仲介手数料をもらえることが確定</span>しています。</span></p>
+<p><span style="font-weight: 400;">そのため、<span class="hutoaka">買主からの手数料を半額にしたり無料にしても、きちんと儲かる</span>んですね。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<div data-custom-type="speech-bubble" data-iconid="1" data-name="" data-position="left">不動産仲介会社が売主と媒介契約を結んでいれば、仲介手数料の割引を相談しやすいかもしれませんね。 それとなく聞いてみましょう。</div>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>不動産業者が売主の場合、仲介手数料がかからない</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">もう一つ仲介手数料を抑える方法として、<strong>不動産業者から直接購入</strong>するという方法があります。</span></p>
+<p><strong><span class="hutoaka">不動産業者が売主の場合は、そもそも仲介手数料がかかりません。</span></strong></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">なぜなら、<strong>不動産業者は不動産のプロ</strong>なので、不動産仲介会社を間に入れる必要がないからです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">そう聞くと不動産業者が持っている物件を買ったほうがいいと思うかもしれませんが、注意点があります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">それは、<strong>不動産業者は自分たちの利益を確保する必要がある</strong>ということです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">そのため<span class="hutoaka">売却価格が高くなりがちで、トータルではお得にならない可能性</span>があります。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">買いたい地域の相場をしっかりと調べて、トータル金額で比較するようにしましょう。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>仲介手数料の支払いタイミングと支払い方法</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5954,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://kosukehome.net/wp-content/uploads/2023/01/6_スケジュール-1024x569.jpg" alt="仲介手数料の支払いタイミングと支払い方法" class="wp-image-5954"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">ここまでご覧いただいて、仲介手数料がどのぐらいかかるかを理解できたと思います。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">そして次に気になるのが、<span class="hutoaka">仲介手数料の</span><strong><span class="hutoaka">支払いタイミング</span></strong>と<span class="hutoaka"><strong>支払い方法</strong></span>ではないでしょうか。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">それぞれ見ていきましょう。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>支払いタイミング</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">仲介手数料は、<strong>２回に分けて支払うことが一般的</strong>です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><span class="hutoaka">１回目が売買契約締結時、２回目が引渡し時</span>です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">金額は半分ずつ支払います。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;"><div data-custom-type="speech-bubble" data-iconid="1" data-name="" data-position="left">もし、あなたが<strong>引渡し時に一括で支払いたいという場合は、事前に不動産仲介会社に相談</strong>してみましょう。</span><span style="font-weight: 400;">一括での支払いが可能な場合もありますよ。</div></span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>支払い方法</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">仲介手数料の支払い方法は、<span class="hutoaka">現金払いが一般的</span>です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">売買契約締結が終わった後と引渡しが終わった後に、その場で現金で支払うという流れです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">ただ、仲介手数料は100万円を超えることも珍しくないので、<strong>現金を持ち歩きたくないという方は、振込で対応できないかなどを事前に確認</strong>しておきましょう。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>契約が解除になったらどうなるの？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">契約が成立すると仲介手数料の支払いが必要になりますが、<strong>契約が解除になった場合はどうなるのでしょうか？</strong></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">解除になった理由にもよりますが、<span class="hutoaka">どうしようもない理由であれば仲介手数料を支払う必要はありません。</span></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">たとえば、<span class="hutoaka">住宅ローンの審査がおりなかったような場合</span>ですね。</span></p>
+<p><span style="font-weight: 400;">このような場合は仲介手数料を支払う必要はないので、安心してください。</span></p>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>さいごに：仲介手数料は、安全に物件を買うための必要経費</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">仲介手数料を払うのはもったいないと感じるかもしれませんが、<strong>安全に物件を買うための必要経費</strong>と考えるといいですよ。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">不動産は一つとして同じ物件がなく、とても奥深い世界です。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">後から何かあっては遅いので、<span class="hutoaka">不動産のプロである不動産仲介会社にしっかりと調べてもらい、安全に契約しましょう。</span></span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<p><span style="font-weight: 400;">今回の記事が、仲介手数料の理解に役立てば嬉しいです。</span></p>
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<div class="st-blackboard square-checkbox">
+<p class="st-blackboard-title-box"><span class="st-blackboard-title">記事のまとめ</span></p>
+<ul class="st-blackboard-list st-no-ck-off">
+<li>仲介手数料は成功報酬</li>
+<li>仲介手数料の計算方法は、「(売買価格の3%＋6万円)+消費税」</li>
+<li>提携割引で仲介手数料を割引してもらおう</li>
+<li>不動産業者から直接購入すると、仲介手数料は不要</li>
+<li>仲介手数料は契約締結時と引渡し時の２回払い</li>
+<li>支払いは現金が一般的</li>
+<li>住宅ローンの審査がおりなかった場合、仲介手数料の支払いは不要</li>
+</ul>
+</div>
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+--- END DEBUG ---
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/01/1_仲介-1024x576.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/01/3_仲介手数料-1024x355.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/01/4_計算-1024x330.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/01/5_割引-1024x423.jpg
+    Downloading image: https://kosukehome.net/wp-content/uploads/2023/01/6_スケジュール-1024x569.jpg
+  -> Updated Body & Categories: post-5792
+Processing Content: 【例文付き】ハウスメーカーのスムーズな断り方を徹底解説  (ID: 5663)
+    Downloading image: https://www15.a8.net/0.gif?a8mat=3NEGQ2+941V3M+4T4S+5YRHE
+  -> Updated Body & Categories: post-5663
+Processing Content: もう迷わない！ハウスメーカーの正しい選び方・決め方【７ステップ】 (ID: 5395)
+    Downloading image: https://kosukehome.net/wp-content/uploads/2021/07/IMG_2710-e1625921324668-695x1024.png
+    Downloading image: https://www15.a8.net/0.gif?a8mat=3NEGQ2+941V3M+4T4S+5YRHE
+  -> Updated Body & Categories: post-5395
+Pass 2 completed.
