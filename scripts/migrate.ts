@@ -272,6 +272,55 @@ const migrate = async () => {
         const blocks = htmlToBlocks(cleanHtml, blockContentType as any, {
             parseHtml: (html: any) => new JSDOM(html).window.document,
             rules: [
+                // Custom Table Rule (Convert to rawHtml with styles)
+                {
+                    deserialize(el: any, next: any, block: any) {
+                        if (el.tagName && el.tagName.toLowerCase() === 'table') {
+                            const rows = Array.from(el.querySelectorAll('tr'));
+                            // 外枠なし、縦線ありのデザイン
+                            let newHtml = '<div class="overflow-x-auto my-8"><table class="min-w-full border-collapse">';
+
+                            rows.forEach((row: any, rowIndex: number) => {
+                                newHtml += '<tr>';
+                                const cells = Array.from(row.querySelectorAll('td, th'));
+                                cells.forEach((cell: any, cellIndex: number) => {
+                                    const bgColor = cell.style.backgroundColor || '';
+                                    let cellClass = 'px-6 py-4 text-center text-sm font-medium ';
+
+                                    const isHeader = rowIndex === 0 || bgColor.includes('#99ccff');
+
+                                    if (isHeader) {
+                                        // ヘッダー行
+                                        cellClass += 'text-gray-900 font-bold';
+                                    } else {
+                                        // ボディ行
+                                        cellClass += 'text-gray-800';
+                                    }
+
+                                    // JITカラーが効かないためインラインスタイルで指定
+                                    const borderColor = isHeader ? '#7EA8D6' : '#CFE2F3';
+                                    const backgroundColor = isHeader ? '#99CCFF' : '#EFF7FF';
+
+                                    // 全てのセルに同じ色のボーダーを適用（外側も内側も同じ色になる）
+                                    // border-collapseが効いているので、border: 1px solidでOK
+                                    const style = `background-color: ${backgroundColor}; border: 1px solid ${borderColor};`;
+
+                                    const content = cell.innerHTML.replace(/<span[^>]*>/g, '').replace(/<\/span>/g, '');
+                                    newHtml += `<td class="${cellClass}" style="${style}">${content}</td>`;
+                                });
+                                newHtml += '</tr>';
+                            });
+
+                            newHtml += '</table></div>';
+
+                            return {
+                                _type: 'rawHtml',
+                                html: newHtml
+                            };
+                        }
+                        return undefined;
+                    }
+                },
                 // Custom Mark Rules (Span)
                 {
                     deserialize(el: any, next: any, block: any) {
