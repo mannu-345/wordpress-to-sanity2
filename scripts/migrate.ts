@@ -225,6 +225,7 @@ const migrate = async () => {
     });
 
     const targetPosts = posts.slice(0, 10);
+    // const targetPosts = posts.filter((item: any) => item['wp:post_id'][0] === '5792');
 
     for (const item of targetPosts) {
         const wp_id = parseInt(item['wp:post_id'][0], 10);
@@ -271,6 +272,34 @@ const migrate = async () => {
         const blocks = htmlToBlocks(cleanHtml, blockContentType as any, {
             parseHtml: (html: any) => new JSDOM(html).window.document,
             rules: [
+                // Custom Mark Rules (Span)
+                {
+                    deserialize(el: any, next: any, block: any) {
+                        if (el.tagName && el.tagName.toLowerCase() === 'span') {
+                            const className = el.getAttribute('class') || '';
+                            const marks = [];
+
+                            if (className.includes('hutoaka')) {
+                                marks.push('redBold');
+                            }
+                            if (className.includes('ymarker') || className.includes('st-marker')) {
+                                marks.push('yellowMarker');
+                            }
+                            if (className.includes('keikou_yellow')) {
+                                marks.push('yellowMarker');
+                            }
+
+                            if (marks.length > 0) {
+                                return {
+                                    _type: 'span',
+                                    marks: marks,
+                                    text: el.textContent || ''
+                                };
+                            }
+                        }
+                        return undefined;
+                    }
+                },
                 // Helper to normalize content (wrap inline items in blocks)
                 // This is needed because htmlToBlocks might return spans for text directly inside the div
                 // but our schema expects an array of blocks.
